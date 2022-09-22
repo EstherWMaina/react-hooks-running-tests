@@ -1,0 +1,12 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-09-22T19:26:20.959Z",
+    "end": "2022-09-22T19:27:49.403Z",
+    "duration": 88444
+  }
+}
